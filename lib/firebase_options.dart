@@ -78,4 +78,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'flatmator.firebasestorage.app',
     iosBundleId: 'com.example.mvpApp',
   );
+
 }
