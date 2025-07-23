@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153187819758",
+    "project_id": "flatmator",
+    "storage_bucket": "flatmator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153187819758:android:f38f2a50fc6d5015b393ff",
+        "android_client_info": {
+          "package_name": "com.example.mvp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6oouzXER71fD3aGiBrR4WH7KbTnd_YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
