@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyApdTXfu4UvLI3JeK1x-qSQLEGMcHZGGJs',
-    appId: '1:153187819758:web:dec274c4038fb630b393ff',
+    apiKey: ,
+    appId: ,
     messagingSenderId: '153187819758',
     projectId: 'flatmator',
     authDomain: 'flatmator.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCN6oouzXER71fD3aGiBrR4WH7KbTnd_YI',
-    appId: '1:153187819758:android:f38f2a50fc6d5015b393ff',
+    apiKey: ,
+    appId: ,
     messagingSenderId: '153187819758',
     projectId: 'flatmator',
     storageBucket: 'flatmator.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDpixTIayLwjoK1ckAtMm16UOSjp2OY9nw',
-    appId: '1:153187819758:ios:385b1ea6c4e78dfab393ff',
+    apiKey: ,
+    appId: ,
     messagingSenderId: '153187819758',
     projectId: 'flatmator',
     storageBucket: 'flatmator.firebasestorage.app',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDpixTIayLwjoK1ckAtMm16UOSjp2OY9nw',
-    appId: '1:153187819758:ios:385b1ea6c4e78dfab393ff',
+    apiKey: ,
+    appId: ,
     messagingSenderId: '153187819758',
     projectId: 'flatmator',
     storageBucket: 'flatmator.firebasestorage.app',
